@@ -1,10 +1,10 @@
-title: Sophia Sun
-name: "Sophia's Blog"
-author: Sophia Sun
-twitter_username: _yokaii_
+title: Zihao Ning
+name: "Zihao's Blog"
+author: Zihao Ning
+twitter_username: lyz950721
 baseurl: "/"
-description: bleep bloop tech blog.
-profile_url: "http://guiguiguiguigui.github.io"
+description: An unorthodox personal blog.
+profile_url: "http://linkzihao.github.io"
 permalink: /:title
 show_drafts: false
 future: false

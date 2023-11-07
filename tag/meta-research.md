@@ -1,5 +1,5 @@
 ---
 layout: tagpage
-title: "Tag: meta-research"
-tag: meta-research
+title: "Tag: Stata"
+tag: Stata
 ---

@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "building a cracklebox"
-tags: misc
+title: "Demo"
+tags: paper
 ---
-> A photo journal of my time @ bombay beach, CA.
+# there is empty
 
 <!--more-->
 
-https://www.digikey.com/short/zr7hzb
+https://linkzihao.github.io
